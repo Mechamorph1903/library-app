@@ -10,5 +10,6 @@ This C++ program is designed to manage a library system by storing information a
 
 
 _SideNote_
+
 I plan to use an api that lets me use a plethora of books and also doesn't require isbn number to search, but this may be a bit harder.
 <img src="videoWalkthrough.gif"/>
